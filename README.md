@@ -1,4 +1,11 @@
+<p align="center">
+ 
+</p align="center">
+<!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
+
+
 💻 Core Stack: Node, JS/TS/React. Mainly focused on Frontend.
+<p align="center">
 <br/>
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanderrybalov&layout=compact)
