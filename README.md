@@ -1,8 +1,4 @@
-
-<!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
-
 💻 Core Stack: Node, JS/TS/React. Mainly focused on Frontend.
-
 <br/>
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanderrybalov&layout=compact)
