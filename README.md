@@ -13,9 +13,6 @@
 ![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 <br/>
 <br/>
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user={xanderrybalov})
-<br/>
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanderrybalov&layout=compact)
 
 💻 Core Stack: Node, JS/TS/React. Mainly focused on Frontend.
