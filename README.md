@@ -1,4 +1,4 @@
-<img src="https://github.com/xanderrybalov/xanderrybalov/tree/main/images/header.png" />
+![](/images/header.png)
 
 💻 Core Stack: Node, JS/TS/React. Mainly focused on Frontend.
 <br/>
