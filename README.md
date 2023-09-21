@@ -1,4 +1,4 @@
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={[xanderrybalov](https://github.com/xanderrybalov)})
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={xanderrybalov})
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ![](https://img.shields.io/badge/JavaScript-EFD53C?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
