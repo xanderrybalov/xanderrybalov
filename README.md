@@ -1,10 +1,8 @@
 ![](/images/header.png)
-
-💻 Core Stack: Node, JS/TS/React. Mainly focused on Frontend.
 <br/>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanderrybalov&layout=compact)
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user={xanderrybalov})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanderrybalov&layout=compact)
 <br/>
 ![](https://img.shields.io/badge/JavaScript-EFD53C?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,3 +17,5 @@
 ![](https://img.shields.io/badge/Jest-C21225?style=for-the-badge&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+
+💻 Core Stack: Node, JS/TS/React. Mainly focused on Frontend.
